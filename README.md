@@ -4,7 +4,7 @@
   <img src="resources/a2a_mcp_readme.png" width="500px" alt="A2A Protocol Diagram">
   <p><em>A2A Protocol: Enabling communication between different agent frameworks</em></p>
   <p>
-    <a href="https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2A_demo_v4.mp4">
+    <a href="https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2A_demo_v4.mp4" target="_blank">
       <strong>▶️ Watch the A2A Protocol Demo Video</strong>
     </a>
   </p>
