@@ -1,27 +1,34 @@
 # Awesome-A2A (Agent2Agent Protocol) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<!-- insert video, set video size -->
-<video src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2A_demo_v4.mp4" controls width="600px"></video>
-<p align="left"><em>Watch: A2A Protocol in action - to see how A2A enables seamless communication between different agent frameworks.</em></p>
+<div align="center">
+  <img src="resources/a2a_mcp_readme.png" width="500px" alt="A2A Protocol Diagram">
+  <p><em>A2A Protocol: Enabling communication between different agent frameworks</em></p>
+  <p>
+    <a href="https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2A_demo_v4.mp4">
+      <strong>▶️ Watch the A2A Protocol Demo Video</strong>
+    </a>
+  </p>
+</div>
 
-🔥  **Agent2Agent (A2A) Protocol** is an open standard by Google that enables seamless communication and interoperability between AI agents built on different frameworks or by different vendors. It allows agents to discover each other, negotiate interaction methods, and collaborate on tasks efficiently.  
+## Overview
+
+🔥 **Agent2Agent (A2A) Protocol** is an open standard by Google that enables seamless communication and interoperability between AI agents built on different frameworks or by different vendors. It allows agents to discover each other, negotiate interaction methods, and collaborate on tasks efficiently.  
 
 This curated list provides everything you need to **quickly understand, run, and explore A2A**, including demonstrations, use cases, core concepts, and learning resources.
 
 ## 📋 Contents
 
-<!-- TOC -->
-- [Sample Implementations Demo](#sample-implementations-demo)
-  - [JavaScript/TypeScript Agents](#javascript-typescript-agents)
-  - [Python Agents](#python-agents)
-  - [Hosts](#hosts)
-  - [Demo Application](#demo-application)
-- [Core Concepts](#core-concepts)
-- [How to Get Started](#how-to-get-started)
-- [FAQ](#faq)
-- [Resources](#resources)
-- [Contributing](#contributing)
-<!-- /TOC -->
+- [Overview](#overview)
+- [Sample Implementations Demo](#-sample-implementations-demo)
+  - [JavaScript/TypeScript Agents](#-javascripttypescript-agents)
+  - [Python Agents](#-python-agents)
+  - [Hosts](#-hosts)
+  - [Demo Application](#-demo-application)
+- [Core Concepts](#-core-concepts)
+- [How to Get Started](#-how-to-get-started)
+- [FAQ](#-faq)
+- [Resources](#-resources)
+- [Contributing](#-contributing)
 
 ## 🚀 Sample Implementations Demo
 
@@ -61,8 +68,8 @@ This curated list provides everything you need to **quickly understand, run, and
 *   **Forms:** Structured data can be requested and submitted using `DataPart` within Messages/Artifacts (demonstrated in ADK sample).
 
 ## 🛠️ How to Get Started
-* Run and Experience A2A Demo ([Sample Implementations Demo](#sample-implementations-demo))
-* Study Core Concepts ([Core Concepts](#core-concepts))
+* Run and Experience A2A Demo ([Sample Implementations Demo](#-sample-implementations-demo))
+* Study Core Concepts ([Core Concepts](#-core-concepts))
 * Reference Common Libraries to build your own A2A Agent
     - JavaScript/TypeScript ([Client](https://github.com/google/A2A/tree/main/samples/js/src/client)/[Server](https://github.com/google/A2A/tree/main/samples/js/src/server))
     - Python ([Common](https://github.com/google/A2A/tree/main/samples/python/common))
